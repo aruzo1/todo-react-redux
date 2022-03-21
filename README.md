@@ -10,5 +10,3 @@
 ```
 
 ![Alt Text](https://media.giphy.com/media/nNr69lhyTr7z6xgZBD/giphy.gif)
-
-The example requires node 4.0 or higher
